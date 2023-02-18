@@ -4,13 +4,16 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a theorist working in quantum information and computing at School of Information Science and Technology, Fudan univ.. I got my B.Eng from Zhejiang univ in 2014, and Ph.D. at Tsinghua Univ. in 2019 under the supervision of Prof. Xiongfeng Ma . I have also been working with Prof. Alisocia Hamma from that time. I did my PostDoc with Prof. Arthur Jaffe at Harvard Univ., and Prof. Mile Gu at Nanyang Technological University & 
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Quantum information:** quantum correlations, quantum system bencmakring and learning
+- **Quantum physics:** meta-learning, incremental learning, transfer learning
 
+
+[comment]: <> (This is a comment, it will not be included)
+<! 
 ## News
 
 - **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
@@ -21,3 +24,4 @@ I am a Ph.D. student at ...
 {% include_relative _includes/publications.md %}
 
 {% include_relative _includes/services.md %}
+-- -->
