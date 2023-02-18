@@ -12,7 +12,7 @@ I am a theorist working in quantum information and computing at School of Inform
 
 All of my works are available on [Google](http://www.google.com/)
 
-News
+## News
 - **[Dec. 2022]** Our work on multi-shot shadow estimation is posted.
 - **[Aug. 2022]** Our work on hybrid shadow estimation is posted.
 - **[Feb. 2022]** I joined in Fudan Unvi.!
