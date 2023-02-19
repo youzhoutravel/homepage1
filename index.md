@@ -9,6 +9,10 @@ I am a theorist working in quantum information and computin, at Key Laboratory f
 ## Research Interests
 Currently my research is on the following two aspects: 1. **quantum correlations**: especailly multipartite entanglment and quantum magic; 2. **learning and benchmarking of quantum systems**: especailly randomized measurements and shadow estimation. I am also interested in the application of these two aspects to related problems in **quantum information scrambling** and **quantum simulation algorithms**. 
 
+## Publications
+
+All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate)
+
 ## News
 - **[Dec. 2022]** Our work on [multi-shot shadow estimation](https://arxiv.org/abs/2212.11068.pdf) is posted.
 - **[Sep. 2022]** My first graduate student Zhou You joins (yes, his name is conjugate to mine, not a mistake)!
@@ -16,10 +20,6 @@ Currently my research is on the following two aspects: 1. **quantum correlations
 - **[Jul. 2022]** Dr. Qing Liu from NTU, SG joins!
 - **[Feb. 2022]** I join in Fudan Unvi. and life at SH begins!
 
-## Publications
 
-All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate)
-
-
-## Hobbies
-I like playing football and a fan of Real Madrid. Very recently I have been reading books on psychology.
+## Others
+I like playing football and a fan of Real Madrid.
