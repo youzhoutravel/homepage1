@@ -11,12 +11,12 @@ Currently my research is on the following two aspects: 1. **quantum correlations
 
 ## Publications
 
-All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate)
+All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
-- **[Dec. 2022]** Our work on [multi-shot shadow estimation](https://arxiv.org/abs/2212.11068.pdf) is posted.
+- **[Dec. 2022]** Our work on [multi-shot shadow estimation](https://arxiv.org/abs/2212.11068.pdf) is posted on arxiv.
 - **[Sep. 2022]** My first graduate student Zhou You joins (yes, his name is conjugate to mine, not a mistake)!
-- **[Aug. 2022]** Our work on [hybrid shadow estimation](https://arxiv.org/abs/2208.08416) is posted.
+- **[Aug. 2022]** Our work on [hybrid shadow estimation](https://arxiv.org/abs/2208.08416) is posted on arxiv.
 - **[Jul. 2022]** Dr. Qing Liu from NTU, SG joins!
 - **[Feb. 2022]** I join in Fudan Unvi. and life at SH begins!
 
