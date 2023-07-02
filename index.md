@@ -14,8 +14,8 @@ Currently, my research is on the following two aspects: 1. **quantum correlation
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
-- **[Jul. 2022]** We organize a [workshop on quantum benchmarking](http://iwqcvv2023.top) at the end of Aug. and please register if interested.
-- **[Jun. 2022]** Our "multi-shot shadow estimation" is published in [Quantum](https://quantum-journal.org/papers/q-2023-06-29-1044/), see also the [perspective](https://quantum-journal.org/views/qv-2023-06-29-74/).
+- **[Jul. 2022]** We will organize a [workshop on quantum benchmarking](http://iwqcvv2023.top) at the end of Aug. and please register if interested.
+- **[Jun. 2022]** Our "multi-shot shadow estimation" is published in [Quantum](https://quantum-journal.org/papers/q-2023-06-29-1044/). See also the [perspective](https://quantum-journal.org/views/qv-2023-06-29-74/).
 - **[Dec. 2022]** Our work [multi-shot shadow estimation](https://arxiv.org/abs/2212.11068.pdf) is posted on arxiv.
 - **[Sep. 2022]** My first graduate student Zhou You joins (yes, his name is conjugate to mine, not a mistake)!
 - **[Aug. 2022]** Our work [hybrid shadow estimation](https://arxiv.org/abs/2208.08416) is posted on arxiv.
