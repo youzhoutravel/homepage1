@@ -14,6 +14,7 @@ Currently, my research is on the following two aspects: 1. **quantum correlation
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Aug. 2023]** Our work [magic of quantum hypergraph states](https://arxiv.org/pdf/2308.01886.pdf) is posted on arxiv.
 - **[Jul. 2023]** We will organize a [workshop on quantum benchmarking](http://iwqcvv2023.top) at Fudan. Please register if interested!
 - **[Jun. 2023]** Our "multi-shot shadow estimation" is published in [Quantum](https://quantum-journal.org/papers/q-2023-06-29-1044/). See also the [perspective](https://quantum-journal.org/views/qv-2023-06-29-74/).
 - **[May. 2023]** I serve as a PC member for [AQIS2023](http://aqis-conf.org/2023/).
