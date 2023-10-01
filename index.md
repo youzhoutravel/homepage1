@@ -9,7 +9,7 @@ I am a theorist working in quantum information and computing, at Key Laboratory 
 ## Research Interests
 I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research as 'quantum many-bit info'. I prefer solving problems in a rigorous manner but with physical motivation. 
 
-Keywords: quantum entanglement, quantum (pseudo-)randomness
+**Keywords**: quantum entanglement, quantum (pseudo-)randomness
 
 Currently, my research is on the following two aspects: 1. **quantum correlations**: especially multipartite entanglement and quantum magic; 2. **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation. 
 
