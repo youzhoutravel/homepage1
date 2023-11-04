@@ -7,7 +7,7 @@ layout: homepage
 I am a theorist working in quantum information and computing, at Key Laboratory for Information Science of Electromagnetic Waves, Fudan Univ.. I got my B.S. from Zhejiang Univ. in 2014, and my Ph.D. from Tsinghua Univ. in 2019 under the supervision of Prof. [Xiongfeng Ma](https://iiis.tsinghua.edu.cn/maxiongfeng/). I have also worked with Prof. [Alioscia Hamma](https://www.quantumphysics.fun/) since then. I did my PostDoc with Prof. [Arthur Jaffe](https://mathpicture.fas.harvard.edu/) at Harvard Univ., and Prof. [Mile Gu](https://www.quantumcomplexity.org/milegu/) at Nanyang Technological University & Centre for Quantum Technologies, SG.
 
 ## Research Interests
-I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. I prefer solving problems in a rigorous manner but with enough physical motivation. 
+I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. 
 Currently, my research is on the following aspect: **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation.
 
 **Keywords: many-body entanglement, quantum (pseudo-)randomness**
@@ -17,6 +17,7 @@ Currently, my research is on the following aspect: **learning and benchmarking o
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Nov. 2023]** Our work [Minimal Clifford Shadow Estimation by MUB](https://arxiv.org/pdf/2310.18749.pdf) is posted on arxiv.
 - **[Sep. 2023]** I will teach two courses this semester: 1. Introduction to quantum information; 2. Introduction to machine learning.
 - **[Sep. 2023]** My second graduate student Qingyue Zhang joins!
 - **[Aug. 2023]** Our work [magic of quantum hypergraph states](https://arxiv.org/pdf/2308.01886.pdf) is posted on arxiv.
