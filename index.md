@@ -17,6 +17,7 @@ Currently, my research is on the following aspect: **learning and benchmarking o
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Mar. 2024]** Dr. Dayue Qin from the Graduate School of CAEP joins!
 - **[Nov. 2023]** Our work [Minimal Clifford Shadow Estimation by MUB](https://arxiv.org/pdf/2310.18749.pdf) is posted on arxiv.
 - **[Sep. 2023]** I will teach two courses this semester: 1. Introduction to quantum information; 2. Introduction to machine learning.
 - **[Sep. 2023]** My second graduate student Qingyue Zhang joins!
