@@ -8,7 +8,7 @@ I am a theorist working in quantum information and computing, at Key Laboratory 
 
 ## Research Interests
 I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. 
-Currently, my research is on the following aspects: 1. **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation; 2. **fundamental quantum correlations**: especially the nonstabilizerness or called magic. 3.**quantum simulation algorithm**: especially Trotter method and its variants.
+Currently, my research is on the following aspects: 1. **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation; 2. **quantum simulation algorithm**: especially Trotter method and its variants; 3. **fundamental quantum correlations**: especially the nonstabilizerness or called magic. 
 
 **Keywords: many-body entanglement, quantum (pseudo-)randomness, quantum dynamics**
 
