@@ -19,7 +19,7 @@ All of my works are available on [Google Scholar](https://scholar.google.com/cit
 ## News
 - **[Jun. 2024]** Our joint th work [Entanglement accelerates quantum simulation](https://arxiv.org/abs/2406.02379) is posted on arxiv.(https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.064001).
 - **[Jun. 2024]** Our "MUB shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.064001).
-- - **[May. 2024]** Our joint exp work [Directly Estimating Mixed-State Entanglement with Bell Measurement Assistance](https://arxiv.org/abs/2405.20696) is posted on arxiv.
+- **[May. 2024]** Our joint exp work [Directly Estimating Mixed-State Entanglement with Bell Measurement Assistance](https://arxiv.org/abs/2405.20696) is posted on arxiv.
 - **[May. 2024]** Our "Hypergraph magic" is published in [Quantum](https://quantum-journal.org/papers/q-2024-05-21-1351/).
 - **[Apr. 2024]** Our joint exp work [Experimental Hybrid Shadow Tomography and Distillation](https://arxiv.org/pdf/2404.11850) is posted on arxiv.
 - **[Mar. 2024]** Dr. Dayue Qin from the Graduate School of CAEP joins!
