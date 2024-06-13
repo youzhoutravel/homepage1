@@ -7,8 +7,8 @@ layout: homepage
 I am a theorist working in quantum information and computing, at Key Laboratory for Information Science of Electromagnetic Waves, Fudan Univ.. I got my B.S. from Zhejiang Univ. in 2014, and my Ph.D. from Tsinghua Univ. in 2019 under the supervision of Prof. [Xiongfeng Ma](https://iiis.tsinghua.edu.cn/maxiongfeng/). I have also worked with Prof. [Alioscia Hamma](https://www.quantumphysics.fun/) since then. I did my PostDoc with Prof. [Arthur Jaffe](https://mathpicture.fas.harvard.edu/) at Harvard Univ., and Prof. [Mile Gu](https://www.quantumcomplexity.org/milegu/) at Nanyang Technological University & Centre for Quantum Technologies, SG.
 
 ## Research Interests
-I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. 
-Currently, my research is on the following aspects: 1. **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation; 2. **quantum simulation algorithm**: especially Trotter method and its variants.
+I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. I like to tackle physics-motivated problems with a mathematical-rigorous approach.
+Currently, my research is on the following aspects: 1. **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation; 2. **quantum simulation algorithms**: especially Trotter method and its variants.
 
 **Keywords: many-body entanglement, quantum (pseudo-)randomness, quantum dynamics**
 
@@ -17,7 +17,11 @@ Currently, my research is on the following aspects: 1. **learning and benchmarki
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
-- **[Apri. 2024]** Our joint work [Experimental Hybrid Shadow Tomography and Distillation](https://arxiv.org/pdf/2404.11850) is posted on arxiv.
+- **[Jun. 2024]** Our joint th work [Entanglement accelerates quantum simulation](https://arxiv.org/abs/2406.02379) is posted on arxiv.(https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.064001).
+- **[Jun. 2024]** Our "MUB shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.064001).
+- - **[May. 2024]** Our joint exp work [Directly Estimating Mixed-State Entanglement with Bell Measurement Assistance](https://arxiv.org/abs/2405.20696) is posted on arxiv.
+- **[May. 2024]** Our "Hypergraph magic" is published in [Quantum](https://quantum-journal.org/papers/q-2024-05-21-1351/).
+- **[Apr. 2024]** Our joint exp work [Experimental Hybrid Shadow Tomography and Distillation](https://arxiv.org/pdf/2404.11850) is posted on arxiv.
 - **[Mar. 2024]** Dr. Dayue Qin from the Graduate School of CAEP joins!
 - **[Nov. 2023]** Our work [Minimal Clifford Shadow Estimation by MUB](https://arxiv.org/pdf/2310.18749.pdf) is posted on arxiv.
 - **[Sep. 2023]** I will teach two courses this semester: 1. Introduction to quantum information; 2. Introduction to machine learning.
@@ -35,4 +39,4 @@ All of my works are available on [Google Scholar](https://scholar.google.com/cit
 
 
 ## Others
-I like playing football and I am a fan of Real Madrid.
+I like playing football and I am a fan of Real Madrid..But I only keep running now..
