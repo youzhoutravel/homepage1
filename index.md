@@ -17,6 +17,7 @@ Currently, my research is on the following aspects: 1. **learning and benchmarki
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Jun. 2024]** Our "hybird shadow" is published in [npjQI](https://www.nature.com/articles/s41534-024-00846-5).
 - **[Jun. 2024]** Our joint th work [Entanglement accelerates quantum simulation](https://arxiv.org/abs/2406.02379) is posted on arxiv.
 - **[Jun. 2024]** Our "MUB shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.064001).
 - **[May. 2024]** Our joint exp work [Directly Estimating Mixed-State Entanglement with Bell Measurement Assistance](https://arxiv.org/abs/2405.20696) is posted on arxiv.
