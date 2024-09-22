@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a theorist working in quantum information and computing, at Key Laboratory for Information Science of Electromagnetic Waves, Fudan Univ.. I got my B.S. from Zhejiang Univ. in 2014, and my Ph.D. from Tsinghua Univ. in 2019 under the supervision of Prof. [Xiongfeng Ma](https://iiis.tsinghua.edu.cn/maxiongfeng/). I have also worked with Prof. [Alioscia Hamma](https://www.quantumphysics.fun/) since then. I did my PostDoc with Prof. [Arthur Jaffe](https://mathpicture.fas.harvard.edu/) at Harvard Univ., and Prof. [Mile Gu](https://www.quantumcomplexity.org/milegu/) at Nanyang Technological University & Centre for Quantum Technologies, SG.
+I am a theorist working in quantum information and computing, at Key Laboratory for Information Science of Electromagnetic Waves, Fudan Univ. I got my B.S. from Zhejiang Univ. in 2014, and my Ph.D. from Tsinghua Univ. in 2019 under the supervision of Prof. [Xiongfeng Ma](https://iiis.tsinghua.edu.cn/maxiongfeng/). I have also worked with Prof. [Alioscia Hamma](https://www.quantumphysics.fun/) since then. I did my PostDoc with Prof. [Arthur Jaffe](https://mathpicture.fas.harvard.edu/) at Harvard Univ., and Prof. [Mile Gu](https://www.quantumcomplexity.org/milegu/) at Nanyang Technological University & Centre for Quantum Technologies, SG.
 
 ## Research Interests
 I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. I like to tackle physics-motivated problems with a mathematical-rigorous approach.
-Currently, my research is on the following aspects: 1. **learning and benchmarking of quantum systems**: especially randomized measurements and shadow estimation; 2. **quantum simulation algorithms**: especially Trotter method and its variants.
+My current research focuses on **learning and benchmarking of quantum systems**, especially randomized measurements and shadow estimation. 
 
 **Keywords: many-body entanglement, quantum (pseudo-)randomness, quantum dynamics**
 
@@ -17,6 +17,12 @@ Currently, my research is on the following aspects: 1. **learning and benchmarki
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Sep. 2024]** Our joint th work [Variational LOCC-assisted quantum circuits for long-range entangled states](https://arxiv.org/abs/2409.07281) is posted on arxiv.
+- **[Sep. 2024]** Our th work [Circuit optimization of qubit IC-POVMs for shadow estimation](https://arxiv.org/abs/2409.05676) is posted on arxiv.
+-  **[Sep. 2024]** I will teach two courses this semester: Introduction to Machine Learning for grad. and undergrad.
+- **[Sep. 2024]** My third graduate student Xizhi Zhao joins!
+- **[Aug. 2024]** ** Our joint exp work [Measurement Induced Magic Resources](https://arxiv.org/abs/2408.01980) is posted on arxiv.
+- **[Jul. 2024]** ** Our th work [Auxiliary-free replica shadow estimation](https://arxiv.org/abs/2407.20865) is posted on arxiv.
 - **[Jun. 2024]** Our "hybird shadow" is published in [npjQI](https://www.nature.com/articles/s41534-024-00846-5).
 - **[Jun. 2024]** Our joint th work [Entanglement accelerates quantum simulation](https://arxiv.org/abs/2406.02379) is posted on arxiv.
 - **[Jun. 2024]** Our "MUB shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.21.064001).
