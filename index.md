@@ -20,7 +20,7 @@ All of my works are available on [Google Scholar](https://scholar.google.com/cit
 - **[Sep. 2024]** Our joint th work [Variational LOCC-assisted quantum circuits for long-range entangled states](https://arxiv.org/abs/2409.07281) is posted on arxiv.
 - **[Sep. 2024]** Our th work [Circuit optimization of qubit IC-POVMs for shadow estimation](https://arxiv.org/abs/2409.05676) is posted on arxiv.
 -  **[Sep. 2024]** I will teach two courses this semester: Introduction to Machine Learning for grad. and undergrad.
-- **[Sep. 2024]** My third graduate student Xizhi Zhao joins!
+- **[Sep. 2024]** My third graduate student Zhixi Zhao joins!
 - **[Aug. 2024]** ** Our joint exp work [Measurement Induced Magic Resources](https://arxiv.org/abs/2408.01980) is posted on arxiv.
 - **[Jul. 2024]** ** Our th work [Auxiliary-free replica shadow estimation](https://arxiv.org/abs/2407.20865) is posted on arxiv.
 - **[Jun. 2024]** Our "hybird shadow" is published in [npjQI](https://www.nature.com/articles/s41534-024-00846-5).
