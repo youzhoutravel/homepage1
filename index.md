@@ -17,6 +17,8 @@ My current research focuses on **learning and benchmarking of quantum systems**,
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Oct. 2024]** Our joint th work [Nearly query-optimal classical shadow estimation of unitary channels](https://arxiv.org/abs/2410.14538) is posted on arxiv.
+- **[Oct. 2024]** Our joint th work [Quantum subspace verification for error correction codes](https://arxiv.org/abs/2410.12551) is posted on arxiv.
 - **[Sep. 2024]** Our joint th work [Variational LOCC-assisted quantum circuits for long-range entangled states](https://arxiv.org/abs/2409.07281) is posted on arxiv.
 - **[Sep. 2024]** Our th work [Circuit optimization of qubit IC-POVMs for shadow estimation](https://arxiv.org/abs/2409.05676) is posted on arxiv.
 -  **[Sep. 2024]** I will teach two courses this semester: Introduction to Machine Learning for grad. and undergrad.
