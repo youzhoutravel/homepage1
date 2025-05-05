@@ -4,11 +4,11 @@ layout: homepage
 
 ## About Me
 
-I am a theorist working in quantum information and computing, at Key Laboratory for Information Science of Electromagnetic Waves, Fudan Univ. I got my B.S. from Zhejiang Univ. in 2014, and my Ph.D. from Tsinghua Univ. in 2019 under the supervision of Prof. [Xiongfeng Ma](https://iiis.tsinghua.edu.cn/maxiongfeng/). I have also worked with Prof. [Alioscia Hamma](https://www.quantumphysics.fun/) since then. I did my PostDoc with Prof. [Arthur Jaffe](https://mathpicture.fas.harvard.edu/) at Harvard Univ., and Prof. [Mile Gu](https://www.quantumcomplexity.org/milegu/) at Nanyang Technological University & Centre for Quantum Technologies, SG.
+I am a theoretical physicist working in quantum information and computing, at Key Laboratory for Information Science of Electromagnetic Waves, Fudan Univ. I got my B.S. from Zhejiang Univ. in 2014, and my Ph.D. from Tsinghua Univ. in 2019 under the supervision of Prof. [Xiongfeng Ma](https://iiis.tsinghua.edu.cn/maxiongfeng/). I have also worked with Prof. [Alioscia Hamma](https://www.quantumphysics.fun/) since then. I did my PostDoc with Prof. [Arthur Jaffe](https://mathpicture.fas.harvard.edu/) at Harvard Univ., and Prof. [Mile Gu](https://www.quantumcomplexity.org/milegu/) at Nanyang Technological University & Centre for Quantum Technologies, SG.
 
 ## Research Interests
-I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. I like to tackle physics-motivated problems with a mathematical-rigorous approach.
-My current research focuses on quantum measurement, quantum learning theory, and quantum benchmarking algorithms, with potential applications in quantum error suppression, quantum simulation, and quantum metrology. 
+I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. 
+My current research focuses on random unitaries and their applications, such as learning quantum systems and exploring fundamental quantum correlations. I also collaborate on the analysis and design of quantum simulation algorithms.
 
 **Keywords: many-body entanglement, quantum (pseudo-)randomness, quantum dynamics**
 
