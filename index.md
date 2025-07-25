@@ -17,11 +17,18 @@ My current research focuses on random unitaries and their applications, such as 
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Jul. 2023]** I serve as one of PRL [Early Career Advisors(ECAs)](https://journals.aps.org/prl/staff#early).
+- **[Jul. 2025]** Our "ent boosts Q-simulation" is published in [Nature Physics](https://www.nature.com/articles/s41567-025-02945-2), cheers!
+- - **[Jun. 2025]** Joint project with Prof.[Qi Zhao](https://qizhao-quantum.github.io/) & Prof.[An Dong] (https://dong-an.github.io/) on "quantum simulation" starts under the funding of 2030 Young Scientists Program.
+- **[May. 2023]** I serve as a PC member for [AQIS2025](http://aqis-conf.org/2025/).
+- **[Apr. 2025]** Our "locc-vqe" is published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.170601).
+- **[Jan. 2025]** Our "sic-povm shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.014021) as Editor's suggestion.
+- **[Jan. 2025]** Our "exp multi-copy shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.014075).
 - **[Oct. 2024]** Our joint th work [Nearly query-optimal classical shadow estimation of unitary channels](https://arxiv.org/abs/2410.14538) is posted on arxiv.
 - **[Oct. 2024]** Our joint th work [Quantum subspace verification for error correction codes](https://arxiv.org/abs/2410.12551) is posted on arxiv.
 - **[Sep. 2024]** Our joint th work [Variational LOCC-assisted quantum circuits for long-range entangled states](https://arxiv.org/abs/2409.07281) is posted on arxiv.
 - **[Sep. 2024]** Our th work [Circuit optimization of qubit IC-POVMs for shadow estimation](https://arxiv.org/abs/2409.05676) is posted on arxiv.
--  **[Sep. 2024]** I will teach two courses this semester: Introduction to Machine Learning for grad. and undergrad.
+- **[Sep. 2024]** I will teach two courses this semester: Introduction to Machine Learning for grad. and undergrad.
 - **[Sep. 2024]** My third graduate student Zhixi Zhao joins!
 - **[Aug. 2024]** Our joint exp work [Measurement Induced Magic Resources](https://arxiv.org/abs/2408.01980) is posted on arxiv.
 - **[Jul. 2024]** Our th work [Auxiliary-free replica shadow estimation](https://arxiv.org/abs/2407.20865) is posted on arxiv.
