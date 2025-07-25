@@ -20,6 +20,7 @@ All of my works are available on [Google Scholar](https://scholar.google.com/cit
 - **[Jul. 2023]** I serve as one of PRL [Early Career Advisors(ECAs)](https://journals.aps.org/prl/staff#early).
 - **[Jul. 2025]** Our "ent boosts Q-simulation" is published in [Nature Physics](https://www.nature.com/articles/s41567-025-02945-2), cheers!
 - **[Jun. 2025]** Joint project with Prof. [Qi Zhao](https://qizhao-quantum.github.io/) & Prof. [An Dong](https://dong-an.github.io/) on "quantum simulation" starts under the funding of 2030 Young Scientists Program.
+- **[May. 2023]** I give a talk of "replica shadow" in [QCTiP2025](https://qctip2025.com/program/) and visit Prof. [Jens Eisert's group](https://www.physik.fu-berlin.de/en/einrichtungen/ag/ag-eisert/index.html) for three weeks.
 - **[May. 2023]** I serve as a PC member for [AQIS2025](http://aqis-conf.org/2025/).
 - **[Apr. 2025]** Our "locc-vqe" is published in [PRL](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.134.170601).
 - **[Jan. 2025]** Our "sic-povm shadow" is published in [PRApplied](https://journals.aps.org/prapplied/abstract/10.1103/PhysRevApplied.23.014021) as Editor's suggestion.
