@@ -8,15 +8,28 @@ I am a theoretical physicist working in quantum information and computing, at Ke
 
 ## Research Interests
 I enjoy thinking about problems at the intersection of quantum information and quantum many-body physics, so I call my research 'quantum many-bit info'. 
-My current research focuses on random unitaries and their applications, such as learning quantum systems and exploring fundamental quantum correlations. I also collaborate on the analysis and design of quantum simulation algorithms.
+My current research focuses on two aspects: 1. random unitaries and their applications; 2. quantum error correction and mitigation.
 
-**Keywords: many-body entanglement, quantum (pseudo-)randomness, quantum dynamics**
+**Keywords: many-body entanglement, quantum (pseudo-)randomness, quantum measurement&benchmarking, quantum codes**
 
 
 ## Publications
 All of my works are available on [Google Scholar](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=oQ_tbtYAAAAJ&sortby=pubdate).
 
 ## News
+- **[Mar. 2026]** Our th work "Auxiliary-free replica shadow" is published in [PRL](https://journals.aps.org/prl/abstract/10.1103/5khs-7dyz), cheers!
+- **[Jan. 2026]** Our joint exp work "Measuring entanglement using RMs" is published in [npj-QI](https://www.nature.com/articles/s41534-025-01172-0).
+- **[Dec. 2025]** Our th work "Verification of QECC" is published in [PRXQuantum](https://journals.aps.org/prxquantum/abstract/10.1103/fyw6-lq1l).
+- **[Nov. 2025]** I give a talk of "replica shadow" in [QTML2025](https://qtml2025.cqt.sg/).
+- **[Oct. 2025]** Our th work [Classical Noise Inversion: A Practical and Optimal framework for Robust Quantum Applications](https://arxiv.org/abs/2510.20686) is posted on arxiv.
+- **[Oct. 2025]** Our joint exp work "Magic in MBQC" is published in [PRL](https://journals.aps.org/prl/abstract/10.1103/4yyv-hggz).
+- **[Sep. 2025]** Our joint th work [Measuring Less to Learn More: Quadratic Speedup in learning Nonlinear Properties of Quantum Density Matrices](https://arxiv.org/abs/2509.01571) is posted on arxiv.
+- **[Sep. 2025]** Our joint th work "optimal channel shadow" is published in [PRXQuantum](https://journals.aps.org/prxquantum/abstract/10.1103/wccm-zys6).
+- **[Sep. 2025]** My 4th graduate student Yangyang Hua joins! I still teach two courses this semester: Introduction to Machine Learning for grad. and undergrad.
+- **[Jul. 2025]** Zhou You has graduated and will be joining Prof. [Xiao Yuan's group](https://cs.pku.edu.cn/info/1232/2048.htm) at PKU as a PhD. Wishing "You" all the best!
+- **[Jul. 2025]** Our joint th work [Approximate k-uniform states: definition, construction and applications
+](https://arxiv.org/abs/2507.19018) is posted on arxiv.
+- **[Jul. 2025]** Our th work [Phase shadow: A noise-tolerant path to global quantum property estimation](https://arxiv.org/abs/2507.13237) is posted on arxiv.
 - **[Jul. 2025]** I serve as one of PRL [Early Career Advisors(ECAs)](https://journals.aps.org/prl/staff#early).
 - **[Jul. 2025]** Our "ent boosts Q-simulation" is published in [Nature Physics](https://www.nature.com/articles/s41567-025-02945-2), cheers!
 - **[Jun. 2025]** Joint project with Prof. [Qi Zhao](https://qizhao-quantum.github.io/) & Prof. [An Dong](https://dong-an.github.io/) on "quantum simulation" starts under the funding of 2030 Young Scientists Program.
